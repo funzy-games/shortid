@@ -1,0 +1,8 @@
+{
+  "name": "funzygames.shortid",
+  "displayName": "FunzyGames.ShortId",
+  "unity": "2021.3",
+  "description": "FunzyGames.ShortId",
+  "version": "1.0.0",
+  "dependencies": {}
+}
